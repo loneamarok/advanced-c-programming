@@ -1,0 +1,2 @@
+export C_INCLUDE_PATH="/Users/sriramrao/Documents/advanced-c-programming/Project1/include" ## for C compiler
+export CPLUS_INCLUDE_PATH="/Users/sriramrao/Documents/advanced-c-programming/Project1/include" ## for Cpp compiler
