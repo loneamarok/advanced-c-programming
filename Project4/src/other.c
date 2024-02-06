@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "other.h"
+// #include "other.h"
+
+extern int g_fav_num;
 
 int get_fav_num() {
-    return(rand()%100);
+    return g_fav_num;
 }
